@@ -45,10 +45,10 @@ Central African Republic,Africa
 Chad,Africa
 Chile,South America
 China,Asia
-China, Hong Kong Special Administrative Region,Asia
-China, Macao Special Administrative Region,Asia
+China Hong Kong Special Administrative Region,Asia
+China Macao Special Administrative Region,Asia
 Christmas Island,Oceania
-Cocos (Keeling) Islands,Oceania
+Cocos Islands,Oceania
 Colombia,South America
 Comoros,Africa
 Congo,Africa
@@ -74,7 +74,7 @@ Eritrea,Africa
 Estonia,Europe
 Eswatini,Africa
 Ethiopia,Africa
-Falkland Islands (Malvinas),South America
+Falkland Islands,South America
 Faroe Islands,Europe
 Fiji,Oceania
 Finland,Europe
@@ -106,7 +106,7 @@ Hungary,Europe
 Iceland,Europe
 India,Asia
 Indonesia,Asia
-Iran (Islamic Republic of),Asia
+Iran,Asia
 Iraq,Asia
 Ireland,Europe
 Isle of Man,Europe
@@ -142,7 +142,7 @@ Mauritania,Africa
 Mauritius,Africa
 Mayotte,Africa
 Mexico,North America
-Micronesia (Federated States of),Oceania
+Micronesia,Oceania
 Monaco,Europe
 Mongolia,Asia
 Montenegro,Europe
@@ -187,7 +187,7 @@ Saint Barthélemy,North America
 Saint Helena,Africa
 Saint Kitts and Nevis,North America
 Saint Lucia,North America
-Saint Martin (French Part),North America
+Saint Martin,North America
 Saint Pierre and Miquelon,North America
 Saint Vincent and the Grenadines,North America
 Samoa,Oceania
@@ -200,7 +200,7 @@ Serbia,Europe
 Seychelles,Africa
 Sierra Leone,Africa
 Singapore,Asia
-Sint Maarten (Dutch part),North America
+Sint Maarten,North America
 Slovakia,Europe
 Slovenia,Europe
 Solomon Islands,Oceania
@@ -240,7 +240,7 @@ United States Virgin Islands,North America
 Uruguay,South America
 Uzbekistan,Asia
 Vanuatu,Oceania
-Venezuela (Bolivarian Republic of),South America
+Venezuela,South America
 Viet Nam,Asia
 Wallis and Futuna Islands,Oceania
 Western Sahara,Africa
