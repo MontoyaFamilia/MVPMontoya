@@ -1,17 +1,16 @@
 # MVPMontoya
 Trabalho MVp PUC Rio
-## Trabalho MVP 01
-# Sprint II: Machine Learning & Analytics (40530010056_20230_01)
+## Trabalho MVP 02
+# Sprint II: Análise de Dados e Boas Práticas (40530010055_20230_02)
 
 ##Aluno: Rodolfo Carlos Alvarado Montoya
 
-##Julho-23
+##Dezembro-23
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 Introdução:
-O programa foi desenvolvido utilizando programação baseado em objetos, deve ter cuidado para execução para seguir a ordem que foi desenvolvida. Foram identificadas diferentes modelos e variáveis para não ter problemas de falsa interpretação no programa.
-
+O programa foi desenvolvido utilizando programação baseado em objetos, deve ter cuidado para execução para seguir a ordem que foi desenvolvida. 
 Os documentos estão todos na pasta pública criada por mim:
 https://github.com/MontoyaFamilia/MVPMontoya/
 
@@ -20,6 +19,6 @@ Neste repositório estão os programas e arquivos utilizados como base, os mesmo
 Na pasta/repositório temos  além do arquivo base do phyton, os seguintes arquivos:
 
 
-O trabalho esta funcionando, porém não deu o melhor resultado de acurácia.
+O trabalho esta funcionando.
 
 Rodolfo Montoya
